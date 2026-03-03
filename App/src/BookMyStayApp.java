@@ -11,7 +11,7 @@
  * @author Varun Misra
  * @version 1.0
  */
-public class HotelBookingApp {
+public class BookMyStayApp {
 
     /**
      * Main method – application entry point.
