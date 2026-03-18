@@ -7,7 +7,7 @@
  * This class demonstrates centralized inventory management by replacing scattered
  * availability variables with a single, consistent data structure using HashMap.
  *
- * @author Sourav Kumar
+ * @author Varun Misra
  * @version 3.0
  */
 public class UseCase3HotelBookingApp {
